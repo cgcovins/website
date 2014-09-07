@@ -1,0 +1,43 @@
+
+
+h1{
+	color: #429;
+	text-align: center;
+	font-family: "Georgia", Serif;
+	font-size: 54px;
+}
+
+body{
+	text-align: center;
+	color: #68c;
+	font-size: 20px;
+	background-color: #fff;
+	border-style: dashed;
+	border-color: #b28;
+	margin: 20px;
+}
+
+img{
+	border-style: solid;
+	border-color: #b28;
+	border-width: 6px;
+}
+
+a{
+	color: #4dd;
+}
+
+div{
+	background-color: #f46;
+	height: 30px;
+	display: inline-block;
+}
+
+#ImpactTeam{
+    	width:150px;
+
+}
+
+#pics{
+    	width: 90px;	
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>First Webpage</title>
+</head>
+<body>
+  <h1>Fucking Siiiiiiiiiiick</h1>
+  <p>But like this is <em>cool.</em></p>
+  <h2>Get <em><strong>pumped</strong></em></h2>
+  I mean I'm excited.<br>
+  <h3 id="playa">Playa</h3>
+  <ul>
+    <li>EARTH</li>
+    <li>AIR</li>
+    <li>FIRE</li>
+  </ul>
+  <ol>
+    <li>WATER</li>
+    </ol>
+  <a href="http://hdwallpapercorner.com/3797/avatar-the-last-airbender">AVATAR, baby</a>
+  <br><br>
+  <img src="http://img2.wikia.nocookie.net/__cb20110803144949/enanimanga/images/7/74/Avatar_The_Last_Airbender.png" width=400 alt="AVATAR">
+  <br><br>
+  <table>
+    <tr>
+      <td>JACK</td>
+      <td>hype</td>
+      <td>ROY</td>
+    </tr>
+  </table>
+
+  <br>
+  <form action="processingscript.php" method="post">
+  <input type="text" value="Hey, it's a textbox">
+  </input>
+
+<select>
+    <option>Option 1</option>
+    <option>Option 2</option>
+    <option value="third option">Option 3</option>
+</select><br>
+
+</form>
+
+<textarea rows="5" cols="20">Hey, it's a larger textbox</textarea>
+
+  <br><br>
+  <a href="#playa">Return to the playa</a>
+  <br><br>
+
+
+</body>
+</html>
