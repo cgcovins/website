@@ -1,0 +1,26 @@
+
+h1{
+	color: #ccc;
+	background-color: #429;
+	text-align: center;
+}
+
+body{
+	font-size: 14px;
+	color: #429;
+	border: 5;
+	margin: 10px;
+	padding: 20px;
+	
+}
+
+h2{
+	border-style: dashed;
+	border-color: #646;
+}
+
+table {
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #ccc;
+}

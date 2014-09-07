@@ -18,8 +18,14 @@ body{
 
 img{
 	border-style: solid;
-	border-color: #b28;
-	border-width: 6px;
+	border-color: #abf;
+	border-width: 5px;
+	height: auto;
+	max-width: 100%;
+}
+
+img.expanded {
+    max-width: none;
 }
 
 a{
@@ -49,7 +55,7 @@ div:hover{
 }
 
 #pics{
-    	width: 90px;	
+    	width: 90px;
 }
 
 #facebook {
