@@ -1,0 +1,17 @@
+$(document).ready(function() {
+
+	$('div').mouseenter(function(){
+		//	$(this).animate({
+			background-color: #429;
+		// }
+	    }
+
+
+
+
+
+
+
+
+
+});
