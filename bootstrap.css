@@ -14,7 +14,7 @@ body {
   margin: 12px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 24px;
-  font-style: 
+  font-style:
   line-height: 1.42857143;
   color: #429;
   background-color: #dff;
@@ -90,7 +90,7 @@ sub {
   bottom: -.25em;
 }
 img {
-  border: 0;
+  //border: 0;
 }
 svg:not(:root) {
   overflow: hidden;
